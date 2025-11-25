@@ -320,22 +320,6 @@ console.log("⚡ Experiência: Sistema carregou instantaneamente");
 
 ---
 
-## 🆚 Diferenças de Outros Padrões
-
-### Proxy vs Decorator
-- **Proxy:** Controla acesso ao objeto (foco: gerenciamento)
-- **Decorator:** Adiciona responsabilidades (foco: funcionalidades)
-
-### Proxy vs Adapter
-- **Proxy:** Mesma interface do objeto real
-- **Adapter:** Interface diferente (adaptação)
-
-### Proxy vs Facade
-- **Proxy:** Substitui UM objeto
-- **Facade:** Simplifica subsistema inteiro
-
----
-
 ## Exemplos Reais
 
 1. **Hibernate/ORM:** Lazy loading de entidades do banco
