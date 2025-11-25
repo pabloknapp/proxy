@@ -302,7 +302,6 @@ console.log("⚡ Experiência: Sistema carregou instantaneamente");
 | **Complexidade** | Adiciona mais classes ao sistema |
 | **Latência Inicial** | Primeiro acesso pode ser lento (lazy loading) |
 | **Código Extra** | Precisa manter proxy e objeto real sincronizados |
-| **Confusão** | Pode ser confundido com Decorator ou Adapter |
 
 ---
 
