@@ -1,4 +1,4 @@
-# Padrão de Projeto: Proxy 🛡️
+# Proxy 🛡️
 
 ## 📋 Índice
 - [O que é?](#o-que-é)
