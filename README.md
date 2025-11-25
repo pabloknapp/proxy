@@ -393,10 +393,3 @@ O proxy é amplamente utilizado em aplicações reais como plataformas de stream
 A implementação é direta: criamos uma classe proxy que tem a mesma interface do objeto real, mas mantém uma referência que só é inicializada quando necessário. O cliente não percebe a diferença, mas ganha todos os benefícios de desempenho.
 
 Em resumo, o padrão Proxy é sobre **eficiência e controle**: carregar apenas o necessário, no momento certo, sem complicar o código do cliente.
-
----
-
-**Autor:** [Seu Nome]  
-**Disciplina:** Engenharia de Software II  
-**Data:** Novembro 2024  
-**Referência:** Design Patterns: Elements of Reusable Object-Oriented Software (GoF)
