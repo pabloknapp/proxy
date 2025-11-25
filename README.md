@@ -336,7 +336,7 @@ console.log("⚡ Experiência: Sistema carregou instantaneamente");
 
 ---
 
-## 📚 Exemplos Reais
+## Exemplos Reais
 
 1. **Hibernate/ORM:** Lazy loading de entidades do banco
 2. **APIs REST:** Cliente HTTP como proxy para servidor remoto
